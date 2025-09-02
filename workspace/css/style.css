@@ -393,7 +393,7 @@ body {
     font-size: 1.6rem;
     line-height: 24px;
     line-height: 2.4rem;
-    background: #dde0e2 url(/workspace/img/body_background.jpg) top center repeat-x;
+    background: #dde0e2 url(../img/body_background.jpg) top center repeat-x;
 }
 
 #page {
