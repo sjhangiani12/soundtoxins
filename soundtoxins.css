@@ -1,0 +1,114 @@
+/* CSS Document */
+body {
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:10pt;
+  text-align:left;
+  padding:0px 0px 0px 0px;
+  margin-top:0px;
+  /*background-color:#1C0000; maroon*/
+  /*background-color:#0D1E26; teal*/
+  background-image:url(bg_pseudo.jpg);
+  background-repeat:no-repeat;
+  background-color:#000000;
+  }
+
+p {
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:11pt;
+  text-align:left;
+  }
+
+.banner {
+ width:1000px;
+ top:0px;
+ }
+
+.bodytxttop {
+  width:670px;
+  height:15px;
+  margin-left:200px;
+  }
+
+.bodytxt {
+  width:820px;
+  min-height:800px;
+  /*margin-left:200px;*/
+  /*border-left:#CCCCCC solid 1px;
+  border-right:#CCCCCC solid 1px;*/
+  text-align:left;
+  padding:30px 50px 30px 50px; /*top right bottom left*/
+  background-color:#FFFFFF;
+  }
+
+.bodytxt p {
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:10pt;
+  text-align:left;
+  }
+
+.bodytxt .caption {
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:8pt;
+  text-align:center;
+  padding:5px 35px 5px 15px;
+}
+
+.bodytxt td {
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:8pt;
+  }
+
+.bodytxt .agency {
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:8pt;
+  color:#ffffff;
+  background-color:#6fa4c1;
+  text-align:right;
+  width:110px;
+  }
+
+.bodytxt .participant {
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:8pt;
+  background-color:#6fa4c1;
+  color:#ffffff;
+  width:140px;
+  }
+
+.bodytxt .website {
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:8pt;
+  background-color:#6fa4c1;
+  width:446px;
+  }
+
+.bigtitle {
+/*  font-family:Georgia, "Times New Roman", Times, serif;*/
+  font-family:Verdana, Arial, Helvetica, sans-serif;
+  font-size:18pt;
+  color:#27536d;
+  font-weight:bold;
+  }
+  
+a:link {color:#27536d; font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none;}
+a:hover {color:#27536d; font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:underline;}
+a:active {color:#27536d; font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none;}
+a:visited {color:#27536d; font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none;}
+
+a.topnav:link {color:#FFFFFF; font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none; font-weight:bold; font-size:9pt;}
+a.topnav:hover {color:#FFFFFF; font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:underline; font-weight:bold; font-size:9pt;}
+a.topnav:active {color:#FFFFFF; font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none; font-weight:bold; font-size:9pt;}
+a.topnav:visited {color:#FFFFFF; font-family:Verdana, Arial, Helvetica, sans-serif;text-decoration:none; font-weight:bold; font-size:9pt;}
+
+.topnav {
+  background-image:url(nav_bkgrd.jpg);
+  background-repeat:repeat-x;
+  color:#FFFFFF;
+  width:900px;
+  padding-left:10px;
+  padding-right:10px;
+}
+
+.border_thin {
+  border: 1px 1px 1px 1px #333333;
+}
