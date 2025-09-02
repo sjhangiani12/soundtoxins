@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "Password Required"
+AuthUserFile /home/sday/password.file
+Require user testuser
+php_value session.gc_maxlifetime 20 
+php_value session.cookie_lifetime 20

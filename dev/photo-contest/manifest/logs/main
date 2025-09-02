@@ -1,0 +1,194 @@
+============================================
+Log Created: 2012-03-22T14:24:04-07:00
+============================================
+Symphony Log
+Version: 2.2.5
+--------------------------------------------
+29 March 2012 22:01 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspace/img/body_background2.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+29 March 2012 22:25 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/js/css3-mediaqueries.js/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+30 March 2012 15:22 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/img/noaa_logo.png/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+30 March 2012 15:41 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/partners.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+30 March 2012 16:25 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /home/vatowebc/public_html/soundtoxins/workspace/pages/partners.xsl line 9 element apply-templates
+Line: 158 - XSLTProcessor::transformToXml(): xsltApplyXSLTTemplate: A potential infinite template recursion was detected.
+You can adjust xsltMaxDepth (--maxdepth) in order to raise the maximum number of nested template calls and variables/params (currently set to 3000).
+Line: 158 - XSLTProcessor::transformToXml(): Templates:
+Line: 158 - XSLTProcessor::transformToXml(): #0 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #1 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #2 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #3 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #4 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #5 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #6 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #7 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #8 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #9 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #10 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #11 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #12 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #13 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #14 name data 
+Line: 158 - XSLTProcessor::transformToXml(): Variables: in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+30 March 2012 16:26 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /home/vatowebc/public_html/soundtoxins/workspace/pages/partners.xsl line 9 element apply-templates
+Line: 158 - XSLTProcessor::transformToXml(): xsltApplyXSLTTemplate: A potential infinite template recursion was detected.
+You can adjust xsltMaxDepth (--maxdepth) in order to raise the maximum number of nested template calls and variables/params (currently set to 3000).
+Line: 158 - XSLTProcessor::transformToXml(): Templates:
+Line: 158 - XSLTProcessor::transformToXml(): #0 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #1 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #2 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #3 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #4 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #5 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #6 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #7 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #8 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #9 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #10 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #11 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #12 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #13 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #14 name data 
+Line: 158 - XSLTProcessor::transformToXml(): Variables: in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+30 March 2012 16:29 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/about.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+30 March 2012 16:29 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/sites.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+30 March 2012 16:30 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/outreach.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+31 March 2012 17:04 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /home/vatowebc/public_html/soundtoxins/workspace/pages/partners.xsl line 9 element apply-templates
+Line: 145 - XSLTProcessor::importStylesheet(): XSLT-apply-templates: could not compile select expression 'partners/'
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+31 March 2012 18:17 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /home/vatowebc/public_html/soundtoxins/workspace/utilities/master.xsl line 19 element html
+Line: 158 - XSLTProcessor::transformToXml(): xsltApplyXSLTTemplate: A potential infinite template recursion was detected.
+You can adjust xsltMaxDepth (--maxdepth) in order to raise the maximum number of nested template calls and variables/params (currently set to 3000).
+Line: 158 - XSLTProcessor::transformToXml(): Templates:
+Line: 158 - XSLTProcessor::transformToXml(): #0 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #1 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #2 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #3 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #4 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #5 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #6 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #7 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #8 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #9 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #10 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #11 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #12 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #13 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #14 name data 
+Line: 158 - XSLTProcessor::transformToXml(): Variables: in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+31 March 2012 18:17 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /home/vatowebc/public_html/soundtoxins/workspace/utilities/master.xsl line 19 element html
+Line: 158 - XSLTProcessor::transformToXml(): xsltApplyXSLTTemplate: A potential infinite template recursion was detected.
+You can adjust xsltMaxDepth (--maxdepth) in order to raise the maximum number of nested template calls and variables/params (currently set to 3000).
+Line: 158 - XSLTProcessor::transformToXml(): Templates:
+Line: 158 - XSLTProcessor::transformToXml(): #0 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #1 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #2 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #3 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #4 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #5 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #6 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #7 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #8 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #9 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #10 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #11 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #12 name data 
+Line: 158 - XSLTProcessor::transformToXml(): #13 name / 
+Line: 158 - XSLTProcessor::transformToXml(): #14 name data 
+Line: 158 - XSLTProcessor::transformToXml(): Variables: in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+02 April 2012 12:16 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/partners/images/penn-cove.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+02 April 2012 12:18 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspaceimages/penn-cove.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+02 April 2012 12:18 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspaceimages/penn-cove.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+02 April 2012 12:18 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspace/images/penn-cove.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+02 April 2012 12:18 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspace/images/penn-cove.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+02 April 2012 12:18 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspace/images/penn-cove.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+02 April 2012 12:25 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspace/images/penn-cove.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+02 April 2012 12:57 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/sites.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+02 April 2012 16:54 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/about.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 April 2012 12:27 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/sites.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 April 2012 12:27 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/outreach.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 April 2012 12:27 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/links.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 April 2012 12:27 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/links.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 April 2012 12:28 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/outreach.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 April 2012 13:09 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/articles/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.datasource.php on line 231
+03 April 2012 13:09 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/articles/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.datasource.php on line 231
+03 April 2012 13:20 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /home/vatowebc/public_html/soundtoxins/workspace/pages/partners.xsl line 17 element apply-templates
+Line: 145 - XSLTProcessor::importStylesheet(): XSLT-apply-templates: could not compile select expression 'description/p/'
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+03 April 2012 13:20 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /home/vatowebc/public_html/soundtoxins/workspace/pages/partners.xsl line 17 element apply-templates
+Line: 145 - XSLTProcessor::importStylesheet(): XSLT-apply-templates: could not compile select expression 'description/p/'
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+11 April 2012 14:13 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/about.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+11 April 2012 14:13 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/about.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+11 April 2012 14:14 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/about.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+11 April 2012 14:14 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/symphony/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+11 April 2012 14:15 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/partners/sites.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+11 April 2012 14:15 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/partners/outreach.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+01 May 2012 15:54 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspace/uploads/thalassiosira-rotula3.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+01 May 2012 15:54 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspace/uploads/thalassiosira-rotula3.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+01 May 2012 15:56 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /home/vatowebc/public_html/soundtoxins/workspace/utilities/get-article.xsl line 20 element img
+Line: 158 - XSLTProcessor::transformToXml(): Variable 'path' has not been declared.
+Line: 158 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+01 May 2012 15:56 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /home/vatowebc/public_html/soundtoxins/workspace/utilities/get-article.xsl line 20 element img
+Line: 158 - XSLTProcessor::transformToXml(): Variable 'path' has not been declared.
+Line: 158 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+01 May 2012 15:57 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /home/vatowebc/public_html/soundtoxins/workspace/utilities/get-article.xsl line 20 element img
+Line: 158 - XSLTProcessor::transformToXml(): Variable 'path' has not been declared.
+Line: 158 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+01 May 2012 15:57 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /home/vatowebc/public_html/soundtoxins/workspace/utilities/get-article.xsl line 20 element img
+Line: 158 - XSLTProcessor::transformToXml(): Variable 'path' has not been declared.
+Line: 158 - XSLTProcessor::transformToXml(): xmlXPathCompiledEval: evaluation failed in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+01 May 2012 15:57 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspace/uploads/imgthalassiosira-rotula3.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+01 May 2012 15:58 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspace/uploads/img/thalassiosira-rotula3.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+01 May 2012 15:58 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspace/uploads/img/thalassiosira-rotula3.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+01 May 2012 16:41 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /home/vatowebc/public_html/soundtoxins/workspace/pages/about.xsl line 21 element call-template
+Line: 158 - XSLTProcessor::transformToXml(): The called template 'get-images' was not found. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+01 May 2012 16:41 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 158 - XSLTProcessor::transformToXml(): runtime error: file /home/vatowebc/public_html/soundtoxins/workspace/pages/about.xsl line 21 element call-template
+Line: 158 - XSLTProcessor::transformToXml(): The called template 'get-images' was not found. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+02 May 2012 13:00 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/css/style.css/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+02 May 2012 13:01 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/css/style.css/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+02 May 2012 13:01 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/css/style.css/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+02 May 2012 16:12 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/about.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 11:42 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspace/img/body_background.jpg/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 11:56 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/img/noaa_logo.png/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 11:56 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/about/img/noaa_logo.png/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 11:56 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/img/noaa_logo.png/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 12:04 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/img/noaa_logo.png/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 12:05 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/img/noaa_logo.png/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 12:06 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/articles/thalassiosira/img/noaa_logo.png/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 12:06 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/img/noaa_logo.png/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 12:11 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/workspaceimg/noaa_logo.png/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 14:44 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/sites/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 14:47 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/sites/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 14:47 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/sites/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 14:48 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/sites/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 15:31 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/sampling-sites/outreach.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 15:31 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/sampling-sites/links.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 16:33 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/links/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+03 May 2012 17:04 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/outreach/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+04 May 2012 11:58 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/outreach/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+04 May 2012 13:10 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/outreach/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+04 May 2012 16:25 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /home/vatowebc/public_html/soundtoxins/workspace/pages/outreach.xsl line 43 element with-param
+Line: 145 - XSLTProcessor::importStylesheet(): element with-param is not allowed within that context
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+07 May 2012 07:48 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/about.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+07 May 2012 07:52 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/sites.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+07 May 2012 07:52 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/demo/sites.html/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315
+17 May 2012 12:05 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /home/vatowebc/public_html/soundtoxins/workspace/pages/about.xsl line 9 element when
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:when : could not compile test expression 'about/entry/placement/item@sidebar'
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+17 May 2012 12:05 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /home/vatowebc/public_html/soundtoxins/workspace/pages/about.xsl line 9 element when
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:when : could not compile test expression 'about/entry/placement/item@sidebar'
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+17 May 2012 12:06 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /home/vatowebc/public_html/soundtoxins/workspace/pages/about.xsl line 9 element when
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:when : could not compile test expression 'about/entry/placement/item@handle='sidebar''
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+17 May 2012 12:06 > UNKNOWN: SymphonyErrorPageHandler 0 - Line: 145 - XSLTProcessor::importStylesheet(): Invalid expression
+Line: 145 - XSLTProcessor::importStylesheet(): compilation error: file /home/vatowebc/public_html/soundtoxins/workspace/pages/about.xsl line 9 element when
+Line: 145 - XSLTProcessor::importStylesheet(): xsl:when : could not compile test expression 'about/entry/placement/item@handle='sidebar''
+Line: 158 - XSLTProcessor::transformToXml(): No stylesheet associated to this object in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 272
+25 May 2012 14:37 > User Notice: FrontendPageNotFoundExceptionHandler 1024 - The page you requested, <code>/outreach/testone/</code>, does not exist. in file /home/vatowebc/public_html/soundtoxins/symphony/lib/toolkit/class.frontendpage.php on line 315

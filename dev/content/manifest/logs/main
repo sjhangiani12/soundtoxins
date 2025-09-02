@@ -1,0 +1,15 @@
+============================================
+Log Created: 2012-09-27T13:28:10-07:00
+============================================
+Symphony Log
+Opened:  2012-09-27T13:28:10-07:00
+Version: 2.3
+Domain:  www.soundtoxins.org/dev/content
+--------------------------------------------
+09/27/2012 2:11 pm > Warning: GenericErrorHandler 2 - Invalid argument supplied for foreach() in file /home/pnwhabs/soundtoxins.org/dev/content/symphony/lib/toolkit/data-sources/class.datasource.author.php on line 91
+09/27/2012 2:39 pm > Warning: GenericErrorHandler 2 - Invalid argument supplied for foreach() in file /home/pnwhabs/soundtoxins.org/dev/content/symphony/lib/toolkit/data-sources/class.datasource.author.php on line 91
+09/28/2012 10:45 am > Warning: GenericErrorHandler 2 - Invalid argument supplied for foreach() in file /home/pnwhabs/soundtoxins.org/dev/content/symphony/lib/toolkit/data-sources/class.datasource.author.php on line 91
+09/28/2012 2:45 pm > Warning: GenericErrorHandler 2 - Invalid argument supplied for foreach() in file /home/pnwhabs/soundtoxins.org/dev/content/symphony/lib/toolkit/data-sources/class.datasource.author.php on line 91
+11/26/2012 4:37 pm > Warning: GenericErrorHandler 2 - Invalid argument supplied for foreach() in file /home/pnwhabs/soundtoxins.org/dev/content/symphony/lib/toolkit/data-sources/class.datasource.author.php on line 91
+12/14/2012 3:09 pm > Warning: GenericErrorHandler 2 - Invalid argument supplied for foreach() in file /home/pnwhabs/soundtoxins.org/dev/content/symphony/lib/toolkit/data-sources/class.datasource.author.php on line 91
+12/18/2012 2:30 pm > Warning: GenericErrorHandler 2 - Invalid argument supplied for foreach() in file /home/pnwhabs/soundtoxins.org/dev/content/symphony/lib/toolkit/data-sources/class.datasource.author.php on line 91
